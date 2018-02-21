@@ -18,6 +18,7 @@
   "main": "./lib",
   "files": [
     "src",
+      "tools",
     "lib",
     "xregexp-all.js",
     "LICENSE"
